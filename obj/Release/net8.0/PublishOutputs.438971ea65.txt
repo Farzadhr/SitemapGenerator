@@ -1,0 +1,9 @@
+C:\Users\shakeri seo\Desktop\SitemapGenerator\SitemapGenerator.exe
+C:\Users\shakeri seo\Desktop\SitemapGenerator\selenium-manager\linux\selenium-manager
+C:\Users\shakeri seo\Desktop\SitemapGenerator\selenium-manager\macos\selenium-manager
+C:\Users\shakeri seo\Desktop\SitemapGenerator\selenium-manager\windows\selenium-manager.exe
+C:\Users\shakeri seo\Desktop\SitemapGenerator\SitemapGenerator.dll
+C:\Users\shakeri seo\Desktop\SitemapGenerator\SitemapGenerator.deps.json
+C:\Users\shakeri seo\Desktop\SitemapGenerator\SitemapGenerator.runtimeconfig.json
+C:\Users\shakeri seo\Desktop\SitemapGenerator\SitemapGenerator.pdb
+C:\Users\shakeri seo\Desktop\SitemapGenerator\WebDriver.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SitemapGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe077c3f5d516be18f4cf27fd523bbdd0d868c47")]
 [assembly: System.Reflection.AssemblyProductAttribute("SitemapGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SitemapGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

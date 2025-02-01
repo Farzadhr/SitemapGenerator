@@ -18,3 +18,4 @@ D:\project\sitemapGenerator\SitemapGenerator\SitemapGenerator\obj\Debug\net8.0\r
 D:\project\sitemapGenerator\SitemapGenerator\SitemapGenerator\obj\Debug\net8.0\SitemapGenerator.pdb
 D:\project\sitemapGenerator\SitemapGenerator\SitemapGenerator\obj\Debug\net8.0\SitemapGenerator.genruntimeconfig.cache
 D:\project\sitemapGenerator\SitemapGenerator\SitemapGenerator\obj\Debug\net8.0\ref\SitemapGenerator.dll
+D:\project\sitemapGenerator\SitemapGenerator\SitemapGenerator\obj\Debug\net8.0\SitemapGenerator.sourcelink.json
